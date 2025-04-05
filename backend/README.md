@@ -1,5 +1,7 @@
 API link https://farmer-friend-v2.onrender.com/
 
+“Training notebooks and data prep scripts are located in /training. These are not required to run the deployed API.”
+
 #Request Body
 {
     "year": 2025,
