@@ -1,0 +1,7 @@
+# Ignore outputs from notebooks (if not cleared)
+*.nbconvert.ipynb
+
+# Ignore virtual environments
+venv/
+.env
+__pycache__/
