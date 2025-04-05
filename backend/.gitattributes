@@ -1,1 +1,2 @@
 *.pkl binary
+*.ipynb text diff=jupyternotebook
