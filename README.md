@@ -87,7 +87,7 @@ This backend handles all ML predictions, model execution, and data scoring logic
 ### 🔧 Backend Tech Stack
 
 - FastAPI  
-- scikit-learn, XGBoost  
+- scikit-learn  
 - Uvicorn  
 - Python, Pandas, NumPy
 
@@ -181,8 +181,8 @@ This project is licensed under the [MIT License](LICENSE)
 
 ## 📞 Contact
 
-**Team Name**: [Your Team Name]  
-**Maintainer**: [Your Name] – [Your Email]  
+**Team Name**: Tchh Aryan  
+**Maintainer**: Rajeev Ahirwar – rajeev.86dev@gmail.com
 **Project Link**: https://github.com/Rajeev-86/smart-crop-recommender-solution-challenge-2025
 
 ---
