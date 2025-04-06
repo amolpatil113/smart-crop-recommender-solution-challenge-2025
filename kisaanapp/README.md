@@ -97,8 +97,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Firebase Team
 - Google Gemini AI Team
 
-## 📞 Contact
-
-[Your Name] - [Your Email]
-
 Project Link: [https://github.com/yourusername/smart-crop-recommender-solution-challenge-2025](https://github.com/yourusername/smart-crop-recommender-solution-challenge-2025)
