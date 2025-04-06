@@ -1,8 +1,3 @@
-Here's the **complete `README.md`** for your **Smart Crop Recommender project**, combining both backend and frontend parts under one root repo. This is perfect for the main GitHub repository you’ll submit for **Google Solution Challenge 2025**:
-
----
-
-```markdown
 # 🌾 Smart Crop Recommender – KisaanApp
 
 An AI-powered crop advisory system developed for the **Google Solution Challenge 2025** to support small and marginal farmers in making informed, data-driven decisions about crop selection, resource usage, and sustainable farming practices.
@@ -188,13 +183,8 @@ This project is licensed under the [MIT License](LICENSE)
 
 **Team Name**: [Your Team Name]  
 **Maintainer**: [Your Name] – [Your Email]  
-**Project Link**: [https://github.com/yourusername/smart-crop-recommender-solution-challenge-2025](https://github.com/yourusername/smart-crop-recommender-solution-challenge-2025)
+**Project Link**: https://github.com/Rajeev-86/smart-crop-recommender-solution-challenge-2025
 
 ---
 
 Built with ❤️ for **Google Solution Challenge 2025**
-```
-
----
-
-Let me know if you'd like me to generate a logo or banner for the GitHub repo to make it even more polished!
