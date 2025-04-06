@@ -97,12 +97,19 @@ This backend handles all ML predictions, model execution, and data scoring logic
 backend/
 ├── app/
 │   ├── main.py
-│   ├── routers/
-│   ├── services/
-│   ├── models/
-│   └── utils/
+│── training/
+│── srs/
+│── models/
+│── Dockerfile/
 ├── requirements.txt
 └── README.md
+kisaanapp/
+│── app/
+│── assets/
+│── components/
+│── hooks/
+└── README.md
+README.md
 ```
 
 ### 📡 API Endpoints
